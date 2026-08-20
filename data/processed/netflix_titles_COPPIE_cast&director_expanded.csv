@@ -1,0 +1,103 @@
+﻿Coppie,Table Names,Collaboration Type,show_id,Person A,Person B
+Ken Burns | Lynn Novick,netflix_titles_director&cast_expanded.csv,Director-Director,s7799,Lynn Novick,Ken Burns
+Ken Burns | Lynn Novick,netflix_titles_director&cast_expanded.csv,Director-Director,s7799,Ken Burns,Lynn Novick
+Ken Burns | Lynn Novick,netflix_titles_director&cast_expanded.csv,Director-Director,s8550,Lynn Novick,Ken Burns
+Ken Burns | Lynn Novick,netflix_titles_director&cast_expanded.csv,Director-Director,s8550,Ken Burns,Lynn Novick
+Ken Burns | Lynn Novick,netflix_titles_director&cast_expanded.csv,Director-Director,s8552,Ken Burns,Lynn Novick
+Ken Burns | Lynn Novick,netflix_titles_director&cast_expanded.csv,Director-Director,s8552,Lynn Novick,Ken Burns
+Christopher Lee | Jeanette Aw,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s4915,Christopher Lee,Jeanette Aw
+Christopher Lee | Jeanette Aw,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s4915,Jeanette Aw,Christopher Lee
+Tay Ping Hui | Yao Wenlong,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5192,Tay Ping Hui,Yao Wenlong
+Tay Ping Hui | Yao Wenlong,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5192,Yao Wenlong,Tay Ping Hui
+Jeanette Aw | Yao Wenlong,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5194,Jeanette Aw,Yao Wenlong
+Jeanette Aw | Yao Wenlong,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5194,Yao Wenlong,Jeanette Aw
+Shaun Chen | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5195,Tay Ping Hui,Shaun Chen
+Rebecca Lim | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5195,Tay Ping Hui,Rebecca Lim
+Shaun Chen | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5195,Shaun Chen,Tay Ping Hui
+Rebecca Lim | Shaun Chen,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5195,Shaun Chen,Rebecca Lim
+Rebecca Lim | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5195,Rebecca Lim,Tay Ping Hui
+Rebecca Lim | Shaun Chen,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5195,Rebecca Lim,Shaun Chen
+Elvin Ng | Jeanette Aw,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5196,Jeanette Aw,Elvin Ng
+Jeanette Aw | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5196,Jeanette Aw,Zhang Zhenhuan
+Elvin Ng | Jeanette Aw,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5196,Elvin Ng,Jeanette Aw
+Elvin Ng | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5196,Elvin Ng,Zhang Zhenhuan
+Jeanette Aw | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5196,Zhang Zhenhuan,Jeanette Aw
+Elvin Ng | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5196,Zhang Zhenhuan,Elvin Ng
+Rebecca Lim | Rui En,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5247,Rui En,Rebecca Lim
+Rui En | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5247,Rui En,Zhang Zhenhuan
+Rebecca Lim | Rui En,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5247,Rebecca Lim,Rui En
+Rebecca Lim | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5247,Rebecca Lim,Zhang Zhenhuan
+Rui En | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5247,Zhang Zhenhuan,Rui En
+Rebecca Lim | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5247,Zhang Zhenhuan,Rebecca Lim
+Rui En | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Rui En,Tay Ping Hui
+Rui En | Shaun Chen,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Rui En,Shaun Chen
+Elvin Ng | Rui En,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Rui En,Elvin Ng
+Rui En | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Rui En,Zhang Zhenhuan
+Rui En | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Tay Ping Hui,Rui En
+Shaun Chen | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Tay Ping Hui,Shaun Chen
+Elvin Ng | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Tay Ping Hui,Elvin Ng
+Tay Ping Hui | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Tay Ping Hui,Zhang Zhenhuan
+Rui En | Shaun Chen,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Shaun Chen,Rui En
+Shaun Chen | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Shaun Chen,Tay Ping Hui
+Elvin Ng | Shaun Chen,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Shaun Chen,Elvin Ng
+Shaun Chen | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Shaun Chen,Zhang Zhenhuan
+Elvin Ng | Rui En,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Elvin Ng,Rui En
+Elvin Ng | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Elvin Ng,Tay Ping Hui
+Elvin Ng | Shaun Chen,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Elvin Ng,Shaun Chen
+Elvin Ng | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Elvin Ng,Zhang Zhenhuan
+Rui En | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Zhang Zhenhuan,Rui En
+Tay Ping Hui | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Zhang Zhenhuan,Tay Ping Hui
+Shaun Chen | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Zhang Zhenhuan,Shaun Chen
+Elvin Ng | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5248,Zhang Zhenhuan,Elvin Ng
+Tay Ping Hui | Yao Wenlong,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5348,Tay Ping Hui,Yao Wenlong
+Tay Ping Hui | Yao Wenlong,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5348,Yao Wenlong,Tay Ping Hui
+Christopher Lee | Rui En,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5391,Christopher Lee,Rui En
+Christopher Lee | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5391,Christopher Lee,Zhang Zhenhuan
+Christopher Lee | Rui En,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5391,Rui En,Christopher Lee
+Rui En | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5391,Rui En,Zhang Zhenhuan
+Christopher Lee | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5391,Zhang Zhenhuan,Christopher Lee
+Rui En | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5391,Zhang Zhenhuan,Rui En
+Elvin Ng | Jeanette Aw,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5394,Jeanette Aw,Elvin Ng
+Christopher Lee | Jeanette Aw,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5394,Jeanette Aw,Christopher Lee
+Elvin Ng | Jeanette Aw,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5394,Elvin Ng,Jeanette Aw
+Christopher Lee | Elvin Ng,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5394,Elvin Ng,Christopher Lee
+Christopher Lee | Jeanette Aw,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5394,Christopher Lee,Jeanette Aw
+Christopher Lee | Elvin Ng,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5394,Christopher Lee,Elvin Ng
+Christopher Lee | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5404,Christopher Lee,Zhang Zhenhuan
+Christopher Lee | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5404,Zhang Zhenhuan,Christopher Lee
+Elvin Ng | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5406,Tay Ping Hui,Elvin Ng
+Elvin Ng | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5406,Elvin Ng,Tay Ping Hui
+Rui En | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5407,Rui En,Tay Ping Hui
+Rui En | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5407,Tay Ping Hui,Rui En
+Jeanette Aw | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5408,Tay Ping Hui,Jeanette Aw
+Elvin Ng | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5408,Tay Ping Hui,Elvin Ng
+Tay Ping Hui | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5408,Tay Ping Hui,Zhang Zhenhuan
+Jeanette Aw | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5408,Jeanette Aw,Tay Ping Hui
+Elvin Ng | Jeanette Aw,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5408,Jeanette Aw,Elvin Ng
+Jeanette Aw | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5408,Jeanette Aw,Zhang Zhenhuan
+Elvin Ng | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5408,Elvin Ng,Tay Ping Hui
+Elvin Ng | Jeanette Aw,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5408,Elvin Ng,Jeanette Aw
+Elvin Ng | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5408,Elvin Ng,Zhang Zhenhuan
+Tay Ping Hui | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5408,Zhang Zhenhuan,Tay Ping Hui
+Jeanette Aw | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5408,Zhang Zhenhuan,Jeanette Aw
+Elvin Ng | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5408,Zhang Zhenhuan,Elvin Ng
+Rebecca Lim | Yao Wenlong,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5410,Rebecca Lim,Yao Wenlong
+Rebecca Lim | Yao Wenlong,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5410,Yao Wenlong,Rebecca Lim
+Jeanette Aw | Shaun Chen,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5466,Shaun Chen,Jeanette Aw
+Rebecca Lim | Shaun Chen,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5466,Shaun Chen,Rebecca Lim
+Shaun Chen | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5466,Shaun Chen,Zhang Zhenhuan
+Jeanette Aw | Shaun Chen,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5466,Jeanette Aw,Shaun Chen
+Jeanette Aw | Rebecca Lim,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5466,Jeanette Aw,Rebecca Lim
+Jeanette Aw | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5466,Jeanette Aw,Zhang Zhenhuan
+Rebecca Lim | Shaun Chen,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5466,Rebecca Lim,Shaun Chen
+Jeanette Aw | Rebecca Lim,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5466,Rebecca Lim,Jeanette Aw
+Rebecca Lim | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5466,Rebecca Lim,Zhang Zhenhuan
+Shaun Chen | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5466,Zhang Zhenhuan,Shaun Chen
+Jeanette Aw | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5466,Zhang Zhenhuan,Jeanette Aw
+Rebecca Lim | Zhang Zhenhuan,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s5466,Zhang Zhenhuan,Rebecca Lim
+Tay Ping Hui | Yao Wenlong,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s7256,Tay Ping Hui,Yao Wenlong
+Shaun Chen | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s7256,Tay Ping Hui,Shaun Chen
+Tay Ping Hui | Yao Wenlong,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s7256,Yao Wenlong,Tay Ping Hui
+Shaun Chen | Yao Wenlong,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s7256,Yao Wenlong,Shaun Chen
+Shaun Chen | Tay Ping Hui,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s7256,Shaun Chen,Tay Ping Hui
+Shaun Chen | Yao Wenlong,netflix_titles_director&cast_expanded.csv-1,Cast-Cast,s7256,Shaun Chen,Yao Wenlong
